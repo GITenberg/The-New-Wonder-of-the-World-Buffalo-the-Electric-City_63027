@@ -1,11 +1,16 @@
 _repo: The-New-Wonder-of-the-World-Buffalo-the-Electric-City_63027
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63027-h/images/backcover.jpg
 creator:
   author:
     agent_name: Richmond, A. E.
     gutenberg_agent_id: '52237'
     url: http://www.gutenberg.org/2009/agents/52237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63027#The-New-Wonder-of-the-World-Buffalo-the-Electric-City
 gutenberg_issued: '2020-08-24'
 gutenberg_type: Text
 identifiers:
